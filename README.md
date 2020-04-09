@@ -35,6 +35,9 @@ There are two mandatory GET request fields to fill:
 | today | ... |
 | all | ...  |
 
+## Response Data Structure
+
+
 # Instructions
 1. Download this repository;
 
