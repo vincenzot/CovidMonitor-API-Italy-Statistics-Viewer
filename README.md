@@ -7,6 +7,11 @@ CovidMonitor is a project that I developed to monitor the spread of the COVID-19
 
 ![Thumbnail www.covidmonitor.info](https://github.com/vincenzot/CovidMonitor-API-Italy-Statistics-Viewer/blob/master/thumb.PNG?raw=true)
 
+# API Usage
+You can use CovidMonitor API with this URL:
+
+[https://covidmonitor.info/api/get.php]
+
 # Instructions
 1. Download this repository;
 
