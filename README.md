@@ -13,11 +13,12 @@ You can use CovidMonitor API with this URL:
 ```
 https://covidmonitor.info/api/get.php
 ```
-There are two mandatory fields to fill:
-| Field | Description |
-| --- | --- |
-| type | ... |
-| date | ... |
+There are two mandatory GET request fields to fill:
+
+| Field | Description | Values |
+| --- | --- | --- |
+| type | It is the type based on area | national, regional, provincial |
+| date | The date  |
 
 # Instructions
 1. Download this repository;
