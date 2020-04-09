@@ -10,7 +10,14 @@ CovidMonitor is a project that I developed to monitor the spread of the COVID-19
 # API Usage
 You can use CovidMonitor API with this URL:
 
-[https://covidmonitor.info/api/get.php]
+```
+https://covidmonitor.info/api/get.php
+```
+There are two mandatory fields to fill:
+| Field | Description |
+| --- | --- |
+| type | ... |
+| date | ... |
 
 # Instructions
 1. Download this repository;
