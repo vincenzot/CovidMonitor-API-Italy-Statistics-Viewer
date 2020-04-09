@@ -18,7 +18,7 @@ There are two mandatory GET request fields to fill:
 | Field | Description | Values |
 | --- | --- | --- |
 | type | It is the type based on area | national, regional, provincial |
-| date | The date  |
+| date | The period  | today, all |
 
 # Instructions
 1. Download this repository;
