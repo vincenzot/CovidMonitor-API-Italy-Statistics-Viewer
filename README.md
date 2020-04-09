@@ -11,7 +11,7 @@ CovidMonitor is a project that I developed to monitor the spread of the COVID-19
 You can use CovidMonitor API with this URL:
 
 ```
-https://covidmonitor.info/api/get.php
+https://covidmonitor.info/api/get.php?type=**[TYPE VALUE]**&date=**[DATE VALUE]**
 ```
 There are two mandatory GET request fields to fill:
 
@@ -19,6 +19,21 @@ There are two mandatory GET request fields to fill:
 | --- | --- | --- |
 | type | It is the type based on area | national, regional, provincial |
 | date | You can choose between today data or all days data  | today, all |
+
+## Type values
+
+| Value | Description |
+| --- | --- |
+| national | ... |
+| regional | ...  |
+| provincial | ...  |
+
+## Date values
+
+| Value | Description |
+| --- | --- |
+| today | ... |
+| all | ...  |
 
 # Instructions
 1. Download this repository;
