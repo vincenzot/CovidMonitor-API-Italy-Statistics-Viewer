@@ -1,5 +1,5 @@
 # CovidMonitor API - Italy Statistics Viewer
-A simple example of how to implement CovidMonitor API to retrieve JSON data about COVID-19 in Italy.
+A simple implementation example of CovidMonitor.info API to retrieve JSON data about COVID-19 in Italy.
 
 # Instructions
 1. Download this repository;
