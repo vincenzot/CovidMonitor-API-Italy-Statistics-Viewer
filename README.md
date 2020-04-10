@@ -13,12 +13,12 @@ You can use CovidMonitor API with this URL:
 <pre>
 https://covidmonitor.info/api/get.php?type=<b>[TYPE VALUE]</b>&date=<b>[DATE VALUE]</b>
 </pre>
-There are two mandatory GET request fields to fill:
+There are two GET parameters that you can use:
 
-| Field | Description | Values |
-| --- | --- | --- |
-| type | It is the type based on area | national, regional, provincial |
-| date | You can choose between today data or all days data  | latest, all |
+| Field | Description | Values | Default |
+| --- | --- | --- | --- |
+| type | It is the type based on area | national, regional, provincial | national |
+| date | You can choose between today data or all days data  | latest, all | latest |
 
 ## Type values
 
