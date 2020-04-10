@@ -60,10 +60,6 @@ This is an example JSON response.
 ]
 </pre>
 
-# Instructions
-1. Download this repository;
-
-
 # Author
 
 **Vincenzo Tartaglia**
