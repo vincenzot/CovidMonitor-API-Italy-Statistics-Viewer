@@ -24,16 +24,16 @@ There are two mandatory GET request fields to fill:
 
 | Value | Description |
 | --- | --- |
-| national | ... |
-| regional | ...  |
-| provincial | ...  |
+| national | Get national data |
+| regional | Get regional data  |
+| provincial |Get provincial data  |
 
 ## Date values
 
 | Value | Description |
 | --- | --- |
-| today | ... |
-| all | ...  |
+| latest | Get latest update day data |
+| all | Get all day data  |
 
 ## Response Data Structure
 
