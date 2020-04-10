@@ -37,6 +37,28 @@ There are two mandatory GET request fields to fill:
 
 ## Response Data Structure
 
+This is an example JSON response.
+<pre>
+[
+    {
+        "date": "2020-04-09T17:00:00",
+        "state": "ITA",
+        "hospitalized_with_symptoms": 28399,
+        "intensive_therapy": 3605,
+        "total_hospidalized": 32004,
+        "home_isolated": 64873,
+        "total_positive": 96877,
+        "variance_total_positive": 1615,
+        "new_infected": 4204,
+        "discharged_recovered": 28470,
+        "deaths": 18279,
+        "total_infected": 143626,
+        "swabs": 853369,
+        "note_it": "",
+        "note_en": ""
+    }
+]
+</pre>
 
 # Instructions
 1. Download this repository;
